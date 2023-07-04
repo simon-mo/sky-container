@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "./sky-packer",
+    "./sky-snapshotter",
+    "./sky-uploader"
+]
